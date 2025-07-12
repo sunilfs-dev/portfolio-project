@@ -6,7 +6,7 @@ import './App.css'
 function App() {
   
   useEffect(() => {
-    fetch('http://localhost:5000')
+    fetch('https://portfolio-project-oqd1.onrender.com/')
       .then(res => res.text())
       .then(data => console.log(data));
   }, []);
