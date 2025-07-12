@@ -12,6 +12,8 @@ This is a starter full-stack portfolio project using **React** for frontend and 
 - Node.js, Express
 - Deployment: Vercel (frontend), Render (backend)
 
+![Portfolio Screenshot](./assets/image.png)
+
 ## 📬 Contact
 - GitHub: [@sunil-sethi-full-stack-dev](https://github.com/sunilFS-dev)
 
